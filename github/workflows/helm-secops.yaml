@@ -1,4 +1,4 @@
-name: trivy-security-scanning
+name: helm-charts-security-scanning
 on: push
 
 permissions:
