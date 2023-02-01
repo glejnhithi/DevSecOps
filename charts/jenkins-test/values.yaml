@@ -27,6 +27,7 @@ podAnnotations: {}
 
 podSecurityContext: {}
   # fsGroup: 2000
+  runAsNonRoot: true
 
 securityContext: {}
   # capabilities:
